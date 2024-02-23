@@ -3,7 +3,7 @@
 <a>
   <img src = "cards/GA4_PBI.png" width="30%">
 </a>
-<a>
+<a href = https://public.tableau.com/app/profile/m.mariano/viz/TILCommsEngineerAllocationDashboard/Dashboard1>
   <img src = "cards/TilComms.png" width="30%">
 </a>
 
