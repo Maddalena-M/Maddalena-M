@@ -1,14 +1,15 @@
 # Maddalena Mariano
 
 ## Vizzes
-<a>
-  <img src = "Cards/GA4_PBI.png" width="30%">
+<a href =  https://public.tableau.com/app/profile/m.mariano/viz/TILCommsEngineerAllocationDashboard/Dashboard1>
+  <img src = "Cards/GA4_PBI.png" width="25%">
+</a>
+</a>
+<a href =  https://public.tableau.com/app/profile/m.mariano/viz/TILCommsEngineerAllocationDashboard/Dashboard1>
+  <img src = "Cards/DrumMachine.png" width="25%">
 </a>
 <a href = https://public.tableau.com/app/profile/m.mariano/viz/TILCommsEngineerAllocationDashboard/Dashboard1>
-  <img src = "Cards/TilComms.png" width="30%">
-</a>
-<a>
-  <img src = "Cards/DrumMachine.png" width="30%">
+  <img src = "Cards/TilComms.png" width="25%">
 </a>
 
 
