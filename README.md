@@ -1,10 +1,14 @@
-#Maddalena Mariano
+# Maddalena Mariano
 
+## Vizzes
 <a>
-  <img src = "cards/GA4_PBI.png" width="30%">
+  <img src = "Cards/GA4_PBI.png" width="30%">
 </a>
 <a href = https://public.tableau.com/app/profile/m.mariano/viz/TILCommsEngineerAllocationDashboard/Dashboard1>
-  <img src = "cards/TilComms.png" width="30%">
+  <img src = "Cards/TilComms.png" width="30%">
+</a>
+<a>
+  <img src = "Cards/DrumMachine.png" width="30%">
 </a>
 
 
