@@ -2,6 +2,9 @@
 
 Data Analytics Consultant as The Information Lab
 
+## Tech Stack
+
+
 ## Vizzes
 <a href =  https://public.tableau.com/app/profile/m.mariano/viz/TILCommsEngineerAllocationDashboard/Dashboard1>
   <img src = "Cards/GA4_PBI.png" width="25%">
