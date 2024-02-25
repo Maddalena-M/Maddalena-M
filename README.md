@@ -3,7 +3,9 @@
 Data Analytics Consultant as The Information Lab
 
 ## Tech Stack
-
+<a>
+  <img src = "Cards/Tech_Stack.png" width="25%">
+</a>
 
 ## Vizzes
 <a href =  https://public.tableau.com/app/profile/m.mariano/viz/TILCommsEngineerAllocationDashboard/Dashboard1>
