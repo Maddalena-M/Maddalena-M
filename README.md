@@ -3,20 +3,20 @@
 Data Analytics Consultant as The Information Lab
 
 ## Tech Stack
-<a>
+<p align="center">
   <img src = "Cards/Tech_Stack.png" width="25%">
-</a>
+</p>
 
 ## Vizzes
 <a href =  https://public.tableau.com/app/profile/m.mariano/viz/TILCommsEngineerAllocationDashboard/Dashboard1>
-  <img src = "Cards/GA4_PBI.png" width="40%">
+  <img src = "Cards/GA4_PBI.png" width="33%">
 </a>
 </a>
 <a href =  https://public.tableau.com/app/profile/m.mariano/viz/TILCommsEngineerAllocationDashboard/Dashboard1>
-  <img src = "Cards/DrumMachine.png" width="40%">
+  <img src = "Cards/DrumMachine.png" width="33%">
 </a>
 <a href = https://public.tableau.com/app/profile/m.mariano/viz/TILCommsEngineerAllocationDashboard/Dashboard1>
-  <img src = "Cards/TilComms.png" width="40%">
+  <img src = "Cards/TilComms.png" width="33%">
 </a>
 
 
