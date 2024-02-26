@@ -8,18 +8,19 @@ Data Analytics Consultant as The Information Lab
 </p>
 
 ## Vizzes
-<a href =  https://public.tableau.com/app/profile/m.mariano/viz/TILCommsEngineerAllocationDashboard/Dashboard1>
-  <img src = "Cards/GA4_PBI.png" width="33%">
+### Tableau
 </a>
-</a>
-<a href =  https://public.tableau.com/app/profile/m.mariano/viz/TILCommsEngineerAllocationDashboard/Dashboard1>
+<a href =  https://public.tableau.com/app/profile/m.mariano/viz/16Genres200DrumPatterns/Dashboard2>
   <img src = "Cards/DrumMachine.png" width="33%">
 </a>
 <a href = https://public.tableau.com/app/profile/m.mariano/viz/TILCommsEngineerAllocationDashboard/Dashboard1>
   <img src = "Cards/TilComms.png" width="33%">
 </a>
 
-
+### PowerBI
+<a href =  https://www.novypro.com/project/marketing-dashboard-google-analytics>
+  <img src = "Cards/GA4_PBI.png" width="33%">
+</a>
 
 <!--
 **Maddalena-M/Maddalena-M** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
