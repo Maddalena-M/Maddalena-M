@@ -4,7 +4,7 @@ Data Analytics Consultant as The Information Lab
 
 ## Tech Stack
 <p align="center">
-  <img src = "Cards/Tech Stack Card.png" width="40%">
+  <img src = "Cards/Tech Stack Card.png" width = 45%>
 </p>
 
 ## Vizzes
