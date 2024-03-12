@@ -21,7 +21,9 @@ Data Analytics Consultant as The Information Lab
 <a href =  https://www.novypro.com/project/marketing-dashboard-google-analytics>
   <img src = "Cards/GA4_PBI.png" width="33%">
 </a>
-
+<a href = https://www.novypro.com/project/hr-diversity-scorecard-rwfd>
+  <img src = "Cards/GA4_PBI.png" width="33%">
+</a>
 <!--
 **Maddalena-M/Maddalena-M** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
