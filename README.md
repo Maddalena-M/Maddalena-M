@@ -19,7 +19,7 @@ Data Analytics Consultant as The Information Lab
 
 ### PowerBI
 <a href = https://www.novypro.com/project/hr-diversity-scorecard-rwfd>
-  <img src = "Cards/GA4_PBI.png" width="33%">
+  <img src = "Cards/HR_Diversity_Scorecard_HiSat.png" width="33%">
 </a>
 <a href =  https://www.novypro.com/project/marketing-dashboard-google-analytics>
   <img src = "Cards/GA4_PBI.png" width="33%">
